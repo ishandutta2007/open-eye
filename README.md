@@ -55,6 +55,10 @@ OpenEye is a community-driven project, and we welcome contributions of all kinds
 
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-eye&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-eye&type=date&legend=top-left)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
