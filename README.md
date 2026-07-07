@@ -73,9 +73,16 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code 
 
 **Join our active [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat directly with the core team and other passionate contributors.
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-eye&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-eye&type=date&legend=top-left)
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2Fopen-eye&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/open-eye&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/open-eye&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/open-eye&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
 
 ## 📜 License
 
