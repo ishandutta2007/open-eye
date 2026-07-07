@@ -1,0 +1,18 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c" />
+      <stop offset="50%" stop-color="#141416" />
+      <stop offset="100%" stop-color="#1c1c1f" />
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)" />
+  <circle cx="200" cy="150" r="80" fill="none" stroke="#4f46e5" stroke-width="8" opacity="0.8"/>
+  <circle cx="200" cy="150" r="40" fill="#10b981" />
+  <text x="340" y="140" font-family="Inter, sans-serif" font-weight="bold" font-size="72" fill="url(#text-gradient)">OpenEye</text>
+  <text x="340" y="200" font-family="Inter, sans-serif" font-size="28" fill="#9ca3af">The Future of Open-Source Security</text>
+</svg>

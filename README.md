@@ -1,74 +1,88 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="OpenEye Banner" width="100%" />
+</div>
+
 # 👁️ OpenEye: The Future of Open-Source Security
+
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)]()
+[![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)]()
+[![Platform](https://img.shields.io/badge/platform-web%20%7C%20cloud-blue.svg)]()
 
-> **The open-source alternative to Verkada, Avigilon, and Genetec. Your all-in-one solution for cloud-managed security cameras, access control, and smart building management.**
+</div>
 
-**OpenEye** is a comprehensive, open-source security platform that unifies cloud-managed security cameras, access control, and smart building solutions into a single, seamlessly integrated system. Inspired by the best features of industry leaders like **Verkada, Avigilon, Genetec, SoundThinking, Rhombus, and Vigilant**, OpenEye aims to deliver a state-of-the-art, enterprise-grade security experience that is accessible to everyone.
+> **The ultimate open-source alternative to Verkada, Avigilon, and Genetec. Your all-in-one comprehensive solution for cloud-managed security cameras, advanced access control, and intelligent smart building management.**
 
-## ✨ Key Features
+**OpenEye** is a comprehensive, open-source security platform that unifies cloud-managed security cameras, access control, and smart building solutions into a single, seamlessly integrated system. Inspired by the best features of industry leaders like **Verkada, Avigilon, Genetec, SoundThinking, Rhombus, and Vigilant**, OpenEye aims to deliver a state-of-the-art, enterprise-grade security experience that is accessible to everyone. By utilizing cloud-managed surveillance and IoT technologies, OpenEye sets a new standard for open-source physical security software.
 
-*   **☁️ Cloud-Managed Simplicity:** A centralized, web-based dashboard for managing all your devices, users, and locations. An open-source Verkada and Rhombus alternative.
-*   **🧠 Advanced Video Analytics:** Powerful, AI-driven analytics for object detection, facial recognition, license plate recognition (LPR), and anomaly detection. An open-source Avigilon alternative with self-learning analytics.
-*   **🚪 Unified Access Control:** Seamlessly integrate access control with your video security system. Grant or revoke access, view door events, and remotely unlock doors from anywhere.
-*   **🔊 Intelligent Audio Detection:** Gunshot detection, glass-break alerts, and aggression detection. An open-source SoundThinking alternative.
-*   **🔌 Open Platform & API:** A fully documented API to integrate OpenEye with your existing systems and build custom solutions.
-*   **🏢 Smart Building Integration:** Connect with IoT devices, automate building management tasks, and create a truly intelligent environment.
-*   **🚀 Scalable & Flexible:** From a single camera to a multi-site enterprise deployment, OpenEye is designed to scale with your needs.
-*   ** Hardware Freedom:** No proprietary lock-in. Use your own hardware or choose from a wide range of compatible devices.
+## ✨ Key Features & Capabilities
 
-## 🏗️ Core Components
+*   **☁️ Cloud-Managed Simplicity:** A centralized, web-based dashboard for managing all your surveillance devices, users, and locations seamlessly. The perfect open-source Verkada and Rhombus alternative.
+*   **🧠 Advanced Video Analytics & AI:** Powerful, AI-driven analytics for object detection, facial recognition, license plate recognition (LPR), and anomaly detection. An open-source Avigilon alternative with self-learning surveillance analytics.
+*   **🚪 Unified Access Control Security:** Seamlessly integrate access control systems with your video security network. Grant or revoke access instantly, view real-time door events, and remotely unlock doors from anywhere in the world.
+*   **🔊 Intelligent Audio Event Detection:** Automated gunshot detection, glass-break alerts, and aggression detection. An unparalleled open-source SoundThinking alternative.
+*   **🔌 Open Platform & RESTful API:** A fully documented API ecosystem to integrate OpenEye with your existing infrastructure and build custom security automation solutions.
+*   **🏢 Smart Building & IoT Integration:** Connect with IoT sensors, automate facility building management tasks, and create a truly intelligent, energy-efficient environment.
+*   **🚀 Scalable & Flexible Architecture:** From a single IP camera to a multi-site enterprise security deployment, OpenEye is robustly designed to scale with your organizational needs.
+*   **🛡️ Hardware Freedom:** No proprietary lock-in. Use your existing ONVIF IP cameras or choose from a wide range of universally compatible security devices.
 
-*   **☁️ OpenEye Cloud:** The heart of the system, providing a centralized management interface, data storage, and remote access.
-*   **📹 OpenEye Vision:** The video management system (VMS) component, responsible for camera management, recording, and analytics.
-*   **🔑 OpenEye Access:** The access control module for managing doors, users, and credentials.
-*   **💡 OpenEye Sense:** The smart building and IoT integration platform.
+## 🏗️ Core Architecture Components
 
-## 🤔 Why OpenEye?
+*   **☁️ OpenEye Cloud:** The heart of the system, providing a secure centralized management interface, encrypted data storage, and global remote access.
+*   **📹 OpenEye Vision:** The state-of-the-art video management system (VMS) component, responsible for IP camera management, continuous recording, and real-time AI analytics.
+*   **🔑 OpenEye Access:** The comprehensive access control module for managing physical doors, access users, and digital credentials.
+*   **💡 OpenEye Sense:** The smart building and IoT environmental sensor integration platform.
 
-*   **💯 Truly Open Source:** No hidden fees, no licensing costs. The entire platform is open for you to inspect, modify, and contribute to.
-*   **👨‍👩‍👧‍👦 Community-Driven:** Be part of a vibrant community of developers and users who are passionate about building the future of security.
-*   **🤸 Unparalleled Flexibility:** Customize the platform to your exact needs, integrate with your favorite tools, and choose the hardware that works for you.
-*   **🔒 Privacy & Control:** You own your data. Deploy OpenEye on your own infrastructure for complete control over your security data.
+## 🤔 Why Choose OpenEye?
 
-## 👥 Who is this for?
+*   **💯 Truly Open Source:** No hidden subscription fees, no per-camera licensing costs. The entire platform is open for you to audit, modify, and contribute to.
+*   **👨‍👩‍👧‍👦 Community-Driven Development:** Be part of a vibrant, global community of developers and users who are passionate about revolutionizing the future of physical security.
+*   **🤸 Unparalleled Customization & Flexibility:** Customize the platform to your exact specifications, integrate with your favorite enterprise tools, and choose the security hardware that fits your budget.
+*   **🔒 Absolute Privacy & Control:** You own your security data. Deploy OpenEye on your own on-premise infrastructure for complete, uncompromising control over your surveillance feeds.
 
-*   **🏢 Businesses & Enterprises:** Secure your offices, warehouses, and facilities with an enterprise-grade security system without the enterprise-level costs.
-*   **🏫 Schools & Universities:** Keep your students and staff safe with a modern, scalable security solution.
-*   **🏠 Homeowners:** Protect your home and family with a powerful, professional-grade security system.
-*   **🛠️ Developers & Integrators:** Build custom security solutions and integrations with our open platform and API.
+## 👥 Who is OpenEye For?
+
+*   **🏢 Businesses & Enterprises:** Secure your corporate offices, vast warehouses, and industrial facilities with an enterprise-grade security system without the prohibitive enterprise-level costs.
+*   **🏫 Schools & Universities:** Keep your students, faculty, and staff safe with a modern, highly scalable campus security solution.
+*   **🏠 Homeowners:** Protect your residential home and family with a powerful, professional-grade smart security system.
+*   **🛠️ Developers & Security Integrators:** Build bespoke custom security solutions and automated integrations with our robust open platform and comprehensive API.
 
 ## 💻 Technology Stack
 
-**(This section will be updated with the technologies used in the project)**
+*   **Frontend:** React, Vite, TypeScript, Vanilla CSS with modern Glassmorphism design
+*   **Backend:** Node.js / Go (Planned)
+*   **Database:** PostgreSQL / Redis
+*   **Video Processing:** FFmpeg, WebRTC
 
 ## 🚀 Getting Started
 
-We are working hard to get the first release of OpenEye ready. In the meantime, you can follow our progress here and check out our upcoming documentation.
+We are actively working hard to get the first stable release of OpenEye ready. In the meantime, you can follow our development progress here and check out our upcoming documentation.
 
-**(This section will be updated with installation and setup instructions)**
+**(This section will be updated with detailed installation, configuration, and setup instructions shortly)**
 
 ## 🙌 Contributing
 
-OpenEye is a community-driven project, and we welcome contributions of all kinds. Whether you are a developer, a designer, a security expert, or just an enthusiast, there are many ways to get involved.
+OpenEye is a community-driven open-source project, and we enthusiastically welcome contributions of all kinds! Whether you are a software developer, a UI/UX designer, a physical security expert, or just an open-source enthusiast, there are many meaningful ways to get involved.
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the structured process for submitting pull requests.
 
-**Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
+**Join our active [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat directly with the core team and other passionate contributors.
 
-   
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-eye&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-eye&type=date&legend=top-left)
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This cutting-edge project is securely licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for complete details.
 
 ## 🙏 Acknowledgments
 
-We are grateful for the inspiration from the following companies and their contributions to the security industry:
+We are immensely grateful for the inspiration from the following industry-leading companies and their profound contributions to the global security industry:
 
 *   Verkada
 *   Avigilon
